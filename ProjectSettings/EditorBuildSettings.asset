@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Template01.unity
+    guid: 18d8ec8a036fe8c4cb2b623437975f2c
+  - enabled: 0
+    path: Assets/Scenes/Toilet01.unity
+    guid: 14a84a9d64d88104599bf9462b65695f
+  m_configObjects: {}
